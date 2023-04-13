@@ -5,6 +5,9 @@ When it is cherry blossom blooming season, in which neighbourhood they can be fo
 Questions of interest 
 
 Which Vancouver neighbourhoods has the greatest number of trees?
+
 Which trees are most planted in each neighbourhood over the years?
+
 Where are the most cherry trees in Vancouver located?
+
 How height and diameter of trees in Vancouver related?
