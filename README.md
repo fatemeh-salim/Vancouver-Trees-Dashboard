@@ -12,7 +12,7 @@ When it is cherry blossom blooming season, in which neighbourhood they can be fo
 Different type of cherry trees may bloom in different times of the year. It would be useful to be able to investigate neighbourhoods for a specific kind of cherry tree. 
 Here I am going to explore Vancouver trees  dataset and answering following question.
 
-### Questions of interest
+### Questions of interest:
 
 1. Which Vancouver neighbourhood has the greatest number of trees?
 
