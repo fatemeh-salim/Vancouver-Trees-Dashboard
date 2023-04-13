@@ -2,7 +2,10 @@ As a resident of beautiful Vancouver, I truly believe part of its beauty is beca
 
 When it is cherry blossom blooming season, in which neighbourhood they can be found the most? Which neighbourhood has more tallest cherry trees? Different type of cherry trees may bloom in different times of the year. It would be useful to be able to investigate neighbourhoods for a specific kind of cherry tree. Here I am going to explore Vancouver trees dataset and answering following question.
 
+
+
 Questions of interest 
+
 
 Which Vancouver neighbourhoods has the greatest number of trees?
 
